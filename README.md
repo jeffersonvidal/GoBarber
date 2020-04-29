@@ -1,13 +1,13 @@
 <h1 align="center">
-    <img alt="Be The Hero" src="./screenshots/gobarber.png"  width="400px"/>
+    <img alt="Go Barber" src="./screenshots/gobarber.png"  width="400px"/>
 </h1>
 
 <h3 align="center" >
-  Be The Hero
+  Go Barber
 </h3>
 
 <p align="center">
-  Projeto da Semana Oministack 11 da Rocketseat. Website e App de cadastro de ONGs e casos que elas precisam de ajuda.
+  Projeto do BootCamp GoStack 9.0 da Rocketseat. Website e App de agendamento de atendimento para barbearias.
 </p>
 
 
@@ -51,30 +51,31 @@
   <a href="#License">License</a>
 </p>
 
+<a id="Screenshots"></a>
+## Screenshots
+
 <a id="Estrutura"></a>
 
 ## Estrutura do Projeto
 
-- [x] Backend - API Rest com sqlite3;
-- [x] Frontend - Aplicação versão web com React JS;
-- [X] Mobile - Aplicação versão mobile com React Native;
+- [] Backend - API Rest com Postgres;
+- [] Frontend - Aplicação versão web com React JS;
+- [] Mobile - Aplicação versão mobile com React Native;
 
 <a id="Bibliotecas"></a>
 ## Sites, softwares, bibliotecas, apis utilizadas
 
+**Ferramentas**
+* [Ferramentas de Desenvolvimento](https://github.com/vidalcorp/webdev-tools)
+
+**Bibliotecas e APIs**
 * NodeJS - https://nodejs.org/dist/v12.16.1/node-v12.16.1-x64.msi;
 * Express - Microframework que trata as requisições e rotas - "npm install express";
-* KnexJS - Trabalhar query de banco de dados - http://knexjs.org/;
-* Cors - Determina quem pode acessar a aplicação;
-* Insomnia - https://insomnia.rest/download/ - Testar métodos e rotas;
+
 
 <a id="Caracteristicas"></a>
 ## Características do projeto
 
-
-
-<a id="Screenshots"></a>
-## Screenshots
 
 <a id="License"></a>
 ## License
@@ -83,4 +84,4 @@ This project is under MIT. See at here [LICENSE](/LICENSE) for more informations
 
 ---
 
-Made with :red_heart: by [Jefferson Vidal](https://github.com/jeffersonvidal)
+Made with ♥ by [Jefferson Vidal](https://github.com/jeffersonvidal)
